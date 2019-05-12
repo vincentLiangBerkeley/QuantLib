@@ -7,9 +7,10 @@ The final goal of this personal project is to modify/rewrite a QuantLib in c++ f
 
 ### Transforming and understanding the functionality of QuantLib
 This is to transform and digest this library into my own knowledge base. 
+
     - Dev Environment setup (on my own laptop): 
-        - Setup Vim environment by installing Vundle, necessary vim plugins, etc;
-        - Setup c++ building environment, compiler, Buck, Cmake, etc;
+        -Setup Vim environment by installing Vundle, necessary vim plugins, etc;
+        -Setup c++ building environment, compiler, Buck, Cmake, etc;
         - Install QuantLib locally;
     - Reading and studying the main functionalities:
         - Read the study materials from QuantLib's webside;
