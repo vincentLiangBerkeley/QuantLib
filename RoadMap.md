@@ -20,6 +20,10 @@ This is to transform and digest this library into my own knowledge base.
         - Design a benchmark framework for testing and find out bottlenecks;
 ### Re-write the main functionalities with Facebook standards
 Knowing the critical paths of core functionalities by benchmarking, try to apply folly's standards and think about optimization opportunities. 
+
+    - Write a simple financial instructment class;
+    - Write 2-3 pricing engines to price the instrucment;
+    - Write a main function similar to the examples;
 ### Migrate the whole project out of boost and apply folly as much as possible
 From main functionalities, spread the re-writting effort to attached functionalities and gradually migrate out of boost and into folly. 
 ### A standalone project providing a superset of functionalities. (Long term goal)
